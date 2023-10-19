@@ -1,0 +1,25 @@
+p{
+    color:red;
+    font-size: 20px;
+    text-align: center;
+    
+    
+}
+
+#paragrafo2{
+
+    color:whitesmoke;
+    font-size: 30px;
+    text-align: justify;
+    background-image: url("bg.jpg");
+    background-size: cover;
+  
+}
+
+.botao{
+
+    background-color:deeppink;
+    color: blue;
+    padding: 10px 20px;
+}
+
